@@ -3,3 +3,4 @@
 3 feijão
 4 carne
 5 cerveja
+6 pão
